@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<errors>
+<error line="5" message="Incorrect value of Color">1462100403;A;100.1;9</error>
+</errors>
+<inputFile>/Users/Bangaly/Documents/workspace/hardis-test/input.txt</inputFile>
+<reference color="R" numReference="1460100040" price="45.12" size="27"/>
+<reference color="G" numReference="1460900848" price="12.0" size="145"/>
+<reference color="G" numReference="1462100044" price="5.56" size="19"/>
+<reference color="B" numReference="1462100403" price="105.23" size="97"/>
+</report>
